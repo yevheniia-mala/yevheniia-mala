@@ -7,7 +7,7 @@ I write docs that developers actually use — clear, structured, and built to sc
 
 - **Docs-as-code:** Markdown, MDX, Astro/Starlight, Jekyll
 - **Tools:** Git, GitHub, VS Code, Figma
-- **Content types:** Concept docs, API references, 
+- **Content types:** Concept docs, how-to guides, FAQ pages, configuration guides, 
   migration guides, integration diagrams
 - **Extras:** SVG technical diagrams, content strategy, 
   Medium articles
@@ -46,4 +46,4 @@ Topics: edge computing, ML in IoT, IoT infrastructure.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/yevheniia-mala-9a3471273/) · mirarymouse@gmail.com
+[LinkedIn](https://www.linkedin.com/in/yevheniia-mala-9a3471273/)
