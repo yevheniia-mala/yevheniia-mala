@@ -6,7 +6,7 @@ I write docs that developers actually use — clear, structured, and built to sc
 ## What I Work With
 
 - **Docs-as-code:** Markdown, MDX, Astro/Starlight, Jekyll
-- **Tools:** Git, GitHub, VS Code, Figma
+- **Tools:** Git, GitHub, Figma
 - **Content types:** Concept docs, how-to guides, FAQ pages, configuration guides, 
   migration guides, integration diagrams
 - **Extras:** SVG technical diagrams, content strategy, 
